@@ -1,5 +1,5 @@
 ---
-# SPINE2 specific data model
+# SPINE1 specific data model
 
 # Interfaces
 interfaces:
@@ -17,8 +17,8 @@ interfaces:
     mode: "trunk"
   Ethernet48:
     descr: "To_Spine1"
-    mode: "trunk
-    
+    mode: "trunk"
+
 # VLANs
 
 vlans:
