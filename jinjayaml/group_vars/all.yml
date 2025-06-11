@@ -93,6 +93,6 @@ ntp:
 # Clock Timezone
 # Set timezone to: EST5EDT
 clock:
-  - timezone: EST5EDT
+  timezone: EST5EDT
 #
 #
